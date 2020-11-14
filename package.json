@@ -1,0 +1,14 @@
+{
+  "name": "aes",
+  "version": "1.0.0",
+  "description": "encript and decrypt aes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fajar andriansyah",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
